@@ -1,0 +1,5 @@
+recursiveBacktracking
+assignment csps/csp7A.assignment
+csp csps/csp7imp.csp
+function orderValues
+function chooseFirstVariable

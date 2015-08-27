@@ -1,0 +1,5 @@
+leastConstrainingValuesHeuristic
+assignment csps/sudoku1.assignment
+csp csps/sudoku.csp
+var ab
+hint The values in the correct answers correspond to all valid values for each index. Your solution should have one value from the tuple for each tuple in the list.

@@ -1,0 +1,29 @@
+running iteration # 1
+Starting training at time 03:15:41.718462 with 11 inputs, 11 outputs, [40] hidden layers, size of training set 1090, and size of test set 509
+Finished after 2 iterations at time 03:15:42.224466 with training error 0.050214 and weight change 0.000062
+Feed Forward Test correctly classified 193, incorrectly classified 316, test percent error  0.379175
+
+running iteration # 2
+Starting training at time 03:15:42.298047 with 11 inputs, 11 outputs, [40] hidden layers, size of training set 1090, and size of test set 509
+Finished after 2 iterations at time 03:15:42.617197 with training error 0.094912 and weight change 0.000002
+Feed Forward Test correctly classified 0, incorrectly classified 509, test percent error  0.000000
+
+running iteration # 3
+Starting training at time 03:15:42.661111 with 11 inputs, 11 outputs, [40] hidden layers, size of training set 1090, and size of test set 509
+Finished after 2 iterations at time 03:15:42.981627 with training error 0.050208 and weight change 0.000002
+Feed Forward Test correctly classified 193, incorrectly classified 316, test percent error  0.379175
+
+running iteration # 4
+Starting training at time 03:15:43.016676 with 11 inputs, 11 outputs, [40] hidden layers, size of training set 1090, and size of test set 509
+Finished after 2 iterations at time 03:15:43.334104 with training error 0.082902 and weight change 0.000003
+Feed Forward Test correctly classified 0, incorrectly classified 509, test percent error  0.000000
+
+running iteration # 5
+Starting training at time 03:15:43.372576 with 11 inputs, 11 outputs, [40] hidden layers, size of training set 1090, and size of test set 509
+Finished after 2 iterations at time 03:15:43.705393 with training error 0.050208 and weight change 0.000005
+Feed Forward Test correctly classified 193, incorrectly classified 316, test percent error  0.379175
+
+Iterations finished
+accuracy average: 0.227504911591
+accuracy standard deviation: 0.185756982459
+max accuracy: 0.379174852652

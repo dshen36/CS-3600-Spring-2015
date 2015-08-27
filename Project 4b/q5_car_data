@@ -1,0 +1,29 @@
+running iteration # 1
+Starting training at time 16:17:50.668436 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:17:53.477946 with training error 0.003198 and weight change 0.000110
+Feed Forward Test correctly classified 1345, incorrectly classified 183, test percent error  0.880236
+
+running iteration # 2
+Starting training at time 16:17:53.560877 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:17:56.199030 with training error 0.004136 and weight change 0.000140
+Feed Forward Test correctly classified 1329, incorrectly classified 199, test percent error  0.869764
+
+running iteration # 3
+Starting training at time 16:17:56.263532 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:17:58.908552 with training error 0.003389 and weight change 0.000115
+Feed Forward Test correctly classified 1336, incorrectly classified 192, test percent error  0.874346
+
+running iteration # 4
+Starting training at time 16:17:58.965874 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:18:01.962985 with training error 0.003623 and weight change 0.000132
+Feed Forward Test correctly classified 1315, incorrectly classified 213, test percent error  0.860602
+
+running iteration # 5
+Starting training at time 16:18:02.019959 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 16:18:04.784245 with training error 0.003983 and weight change 0.000128
+Feed Forward Test correctly classified 1354, incorrectly classified 174, test percent error  0.886126
+
+Iteration finished
+accuracy average: 0.874214659686
+accuracy standard deviation: 0.00875496937602
+max accuracy: 0.88612565445

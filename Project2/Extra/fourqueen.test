@@ -1,0 +1,6 @@
+solve
+csp extra/fourqueen.csp
+function leastConstrainingValuesHeuristic
+function minimumRemainingValuesHeuristic
+function maintainArcConsistency
+boolean True

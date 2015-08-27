@@ -1,0 +1,29 @@
+running iteration # 1
+Starting training at time 12:06:34.769861 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 74 iterations at time 12:07:33.754778 with training error 0.002608 and weight change 0.000079
+Feed Forward Test correctly classified 3190, incorrectly classified 308, test percent error  0.911950
+
+running iteration # 2
+Starting training at time 12:07:33.970744 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 85 iterations at time 12:08:42.290507 with training error 0.002743 and weight change 0.000080
+Feed Forward Test correctly classified 3181, incorrectly classified 317, test percent error  0.909377
+
+running iteration # 3
+Starting training at time 12:08:42.482905 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 69 iterations at time 12:09:36.973535 with training error 0.002965 and weight change 0.000079
+Feed Forward Test correctly classified 3189, incorrectly classified 309, test percent error  0.911664
+
+running iteration # 4
+Starting training at time 12:09:37.168042 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 74 iterations at time 12:10:38.839695 with training error 0.002637 and weight change 0.000080
+Feed Forward Test correctly classified 3156, incorrectly classified 342, test percent error  0.902230
+
+running iteration # 5
+Starting training at time 12:10:39.038470 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 60 iterations at time 12:11:28.167275 with training error 0.002829 and weight change 0.000080
+Feed Forward Test correctly classified 3108, incorrectly classified 390, test percent error  0.888508
+
+Iteration finished
+accuracy average: 0.904745568897
+accuracy standard deviation: 0.00884540726789
+max accuracy: 0.911949685535

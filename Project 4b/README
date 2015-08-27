@@ -1,0 +1,14 @@
+To run testPenData for q4, do: 
+	python q4.py (or using pypy)
+
+To run q5, do: 
+	python q5.py (or using pypy)
+
+To run q6, do: 
+	python q6.py (or using pypy)
+
+To run q7, do: 
+	python q7.py (or using pypy)
+
+To run q8, do: 
+	python q8.py (or using pypy)
